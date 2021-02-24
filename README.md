@@ -5,4 +5,4 @@ These estimates and margins of error were computed by the U.S. Census Bureau fro
 2007 estimates are based on three years of ACS data for 2005-2007. The 2017 estimates are based on five-years of ACS data for 2013-2017.
 The csv file contains 51 data records and 14 variables. 
 
-R script produces the micromap plot in the file VeteransArrowCI.pdf 
+R script produces the micromap plot in the file VeteransMicroMap5.pdf 
